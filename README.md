@@ -1,1 +1,1 @@
-This is a Django python signals intial code.
+This is a Django python signals initial code.
